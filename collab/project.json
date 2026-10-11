@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "id": "79d85037-e9f9-4bba-a07e-c4708c97951f",
+    "name": "shop-api",
+    "repositoryUrl": "https://github.com/mgreenlaw10/sample-project",
+    "integratedBranch": "main",
+    "architectureVersion": 0,
+    "settings": {
+      "syncIntervalSeconds": 10,
+      "reservationLeaseSeconds": 1800,
+      "integrationAuthority": null,
+      "allowValidationCommands": false
+    },
+    "revision": 1,
+    "updatedAt": "2026-10-11T23:49:46.324Z",
+    "updatedBy": "mack-greenlaw-scully-f6b72481"
+  }
+}
